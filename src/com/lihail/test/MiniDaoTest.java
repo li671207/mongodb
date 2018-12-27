@@ -23,7 +23,7 @@ public class MiniDaoTest {
 			put("_id", "3696e3c8-fc56-4e24-a812-96eb720b6896");
 			put("name", "updateminidao");
 			put("gender", "F");
-			put("age", 123);
+			put("age", 233);
 		}};
 		String id = "3696e3c8-fc56-4e24-a812-96eb720b6896";
 //		miniDao.createDatabase(xmlPath, databaseName);//新增数据库
