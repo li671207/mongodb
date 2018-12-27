@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databases>
+	<database name="mydb1">
+		<collection name="coll1">
+			<data>{"_id":"","name":"test","gender":"M","age":22}</data>
+		</collection>
+		<collection name="coll2">
+		</collection>
+	</database>
+	<database name="mydb2">
+		<collection name="coll3">
+		</collection>
+	</database>
+</databases>
