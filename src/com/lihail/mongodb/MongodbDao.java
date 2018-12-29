@@ -1,4 +1,4 @@
-package com.lihail.minidao;
+package com.lihail.mongodb;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -18,7 +18,7 @@ import org.dom4j.io.XMLWriter;
 
 import com.alibaba.fastjson.JSONObject;
 
-public class MiniDao {
+public class MongodbDao {
 	
 	/**
 	 * 新增数据库

@@ -4,12 +4,12 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-import com.lihail.minidao.MiniDao;
+import com.lihail.mongodb.MongodbDao;
 
-public class MiniDaoTest {
+public class MongodbDaoTest {
 
 	public static void main(String[] args) {
-		MiniDao miniDao = new MiniDao();
+		MongodbDao miniDao = new MongodbDao();
 		String xmlPath = "minidao.xml";
 		String databaseName = "miniDb";
 		String collectionName = "miniCollection";
