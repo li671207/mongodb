@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<databases><database name="mydb1"><collection name="coll1"><data>{"_id":"99798f61-f95b-42d8-ae5c-8fa46cbc3e1f","name":"test","gender":"M","age":22}</data></collection><collection name="coll2"/></database><database name="mydb2"><collection name="coll3"/></database><database name="miniDb"><collection name="miniCollection"><data>{"gender":"M","name":"minidao","_id":"11b8c2c9-0ee4-4e46-b85c-1d4fe9030a13","age":33}</data></collection></database></databases>
