@@ -10,7 +10,7 @@ public class MongodbDaoTest {
 
 	public static void main(String[] args) {
 		MongodbDao miniDao = new MongodbDao();
-		String xmlPath = "minidao.xml";
+		String xmlPath = "monogdb.xml";
 		String databaseName = "miniDb";
 		String collectionName = "miniCollection";
 		Map<String, Object> dataMap = new HashMap<String, Object>(){{
